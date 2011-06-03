@@ -11,7 +11,6 @@ Gem::Specification.new do |s|
   s.email   = "contacto@nicolassanguinetti.info"
 
   s.require_paths     = ["lib"]
-  s.has_rdoc          = true
 
   s.files = %w[
 .gitignore
